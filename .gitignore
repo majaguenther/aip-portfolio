@@ -1,3 +1,3 @@
 /.idea
-/teachable-machine/training-data/*
-/teachable-machine/test-data/*
+#/teachable-machine/training-data/*
+#/teachable-machine/test-data/*
