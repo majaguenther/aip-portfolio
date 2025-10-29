@@ -2,7 +2,10 @@
 
 This is my portfolio for the AIP minor at the Hanze UAS.
 
+My in-depth learning plan and the self-analysis are in [one file][LP].
+It is not DIN A4, but the cm² are about the same as two DIN A4 pages, I promise.
 
+[LP]: Learning%20Plan.pdf
 
 ## Structure
 
@@ -22,7 +25,9 @@ This is my portfolio for the AIP minor at the Hanze UAS.
 | TBA      | [Prof. Dr. Monett Díaz' stance on AI][MD]                   | She’s been researching AI for over 10(?) years and as she is also the AI lecturer at my university, it’s good to be aware of her opinion.  | ([Report][md])                           |
 |          |                                                             |                                                                                                                                            |                                          |
 
-## Aiono
+I also included my [AIP logbook][logbook], as it stated *somewhere* that it is relevant for the CGI?
+
+[logbook]: aip-logbook
 
 ## Working together
 
