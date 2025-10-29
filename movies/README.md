@@ -14,9 +14,29 @@ covering AI and/or autonomous machines. Not all of them are available on platfor
 | Watch Speed       | 1.5x                      |
 | Platform          | Netflix                   |
 | Letterboxd Rating | 2.1 ★ (out of 5)          |
-| **My Rating**     | 2.5 ★ (out of 5)          |
+| **My Rating**     | 2.5★ (out of 5)           |
 
 
-## Movies I didn't watch
+## Movies I didn't watch (yet)
+| Name              | A.I. Artificial Intelligence |
+|-------------------|------------------------------|
+| Release           | 2001                         |
+| Platform          | Amazon Prime                 |
+| Letterboxd Rating | 3.6 ★ (out of 5)             |
+| **My Rating**     | **TBA** ★ (out of 5)         |
+
+| Name              | I, Robot             |
+|-------------------|----------------------|
+| Release           | 2004                 |
+| Platform          | Disney+              |
+| Letterboxd Rating | 3.2 ★ (out of 5)     |
+| **My Rating**     | **TBA** ★ (out of 5) |
+
+| Name              | Her                   |
+|-------------------|-----------------------|
+| Release           | 2013                  |
+| Platform          | Amazon Prime Plus (?) |
+| Letterboxd Rating | 4.0 ★ (out of 5)      |
+| **My Rating**     | **TBA** ★ (out of 5)  |
 
 [TES]: the-electric-state
