@@ -1,3 +1,5 @@
+![fancy header](./readme-imgs/header_dark.png#gh-dark-mode-only)
+![fancy header](./readme-imgs/header_light.png#gh-light-mode-only)
 # AIP portfolio
 
 This is my portfolio for the AIP minor at the Hanze UAS.
