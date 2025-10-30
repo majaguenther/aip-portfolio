@@ -8,4 +8,7 @@ the camera feature, and let the model decide, who I look more alike.
 It felt like a simple use case and a good example to show my parents what I do at uni, while not boring them
 too much with details.
 
+This directory includes all used training- and test-data, the model, and a [report][rp]. 
+
 [TM]: https://teachablemachine.withgoogle.com/train
+[rp]: report.pdf
